@@ -7,9 +7,9 @@ setuptools.setup(
     version=__version__,
     packages=setuptools.find_packages(),
     install_requires=(
-        "Jinja2>=3.0.1",
-        "pygame>=2.0.1"
-        "click>=8.0.1",
+        "Jinja2>=3.1.2",
+        "pygame>=2.1.2"
+        "click>=8.1.3",
     ),
     entry_points={"console_scripts": ["cubone=cubone.cli.core:main"]},
 )
