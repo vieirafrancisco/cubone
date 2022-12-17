@@ -1,12 +1,12 @@
 [tool.poetry]
 name = "cubone"
-version = "0.1.1"
+version = "0.1.2"
 description = "A pygame scaffold package"
 authors = ["Francisco <vieirafrancisco.dev@gmail.com>"]
 license = "MIT License"
 
 [tool.poetry.dependencies]
-python = "^3.10"
+python = "^3.8"
 pygame = "^2.1.2"
 Jinja2 = "^3.1.2"
 click = "^8.1.3"

@@ -1,4 +1,0 @@
-Jinja2==3.0.1
-click==8.0.1
-PyInquirer==1.0.3
-prompt_toolkit==1.0.14
